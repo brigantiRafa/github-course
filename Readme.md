@@ -48,4 +48,9 @@ cat = type
 more
 notepad id_rsa.pub
 
+git checkout -b "NOME-DO-NOVO-BRANCH"
+git branch
+git checkout "NOME-DO-BRANCH-QUE-VOCÊ-QUER-TROCAR"
+git branch -D testing
+
  
